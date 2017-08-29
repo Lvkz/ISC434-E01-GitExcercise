@@ -1,4 +1,4 @@
-ISC434-E02
+ISC434-E01
 =========
 
-Práctica 2 | Ingeniería de Software
+Práctica 1 | Ingeniería de Software
